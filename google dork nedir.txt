@@ -1,0 +1,17 @@
+Google dork, Google’ın gelişmiş arama operatörlerini kullanarak hedefe yönelik ve ince aramalar yapma yöntemidir. Yani normal bir anahtar kelime aramasından ziyade site:, filetype:, inurl: gibi özel operatörlerle daha kesin sonuçlar elde etmeye yarar.
+
+Hızlıca belirli dosya türlerini veya kurum sitelerindeki dökümanları bulmak SEO, güvenlik araştırmaları, bilgi erişimi ve arama verimliliği için kullanılır.
+
+Yaygın operatörler
+
+site:  sadece belirli bir alan içinde arama yapar.
+
+filetype: belirli dosya türlerini bulur .
+
+inurl: URL içinde belirli kelime arar.
+
+intitle: sayfa başlığında arama yapar.
+
+
+
+
