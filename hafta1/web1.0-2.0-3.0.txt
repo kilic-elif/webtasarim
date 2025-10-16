@@ -1,0 +1,23 @@
+Web 1.0 
+İnternetin ilk dönemidir.
+
+Siteler hareketsiz, sadece bilgi gösteren sayfalardan oluşuyordu.
+
+Kullanıcılar içerik üretemiyor, yalnızca sayfalardaki yazıları okuyabiliyordu.
+
+
+ Web 2.0 
+Bu dönemle birlikte internet etkileşimli hale geldi.
+
+Kullanıcılar artık sadece tüketici değil, aynı zamanda içerik üreticisi oldular.
+
+Sosyal medya, bloglar, forumlar ve paylaşım platformları gelişti.
+
+ Web 3.0 
+“Akıllı web” olarak da bilinir.
+
+Yapay zekâ, blockchain ve semantik teknolojiler üzerine kuruludur.
+
+Veriler merkezi sunucularda değil, dağıtık sistemlerde saklanır.
+
+Kullanıcılar dijital varlıklara (NFT, kripto para gibi) gerçekten sahip olabilir.
